@@ -10,4 +10,4 @@ results = model('bus.jpg')
 # Show and save results
 for result in results:
     result.show()
-    result.save(filename='bus1.jpg')
+    result.save(filename='result.jpg')
